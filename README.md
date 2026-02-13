@@ -71,7 +71,7 @@ Fully Connected Layer (Linear) → Softmax → [Class Probabilities]
 | Количество классов | 15 (пример) |
 | Время инференса (CPU) | < 10 мс/изображение |
 
-<img width="600" height="400" alt="confusion_matrix" src="path_to_your_confusion_matrix_plot.png" />
+<img width="600" height="400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d820f0e2-6860-4279-a47b-af4ee4899cef" />
 *(Здесь будет размещена матрица ошибок, генерируемая скриптом)*
 
 ---
